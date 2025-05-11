@@ -1,3 +1,1 @@
-# N.O.V.A
-
-### -Network Orbiter for Versatile Applications
+# N.O.V.A - Network Orbiter for Versatile Applications
