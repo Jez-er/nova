@@ -1,0 +1,21 @@
+{
+	"name": "nova",
+	"version": "1.0.0",
+	"description": "A stellar HTTP client by Astral Team",
+	"main": "dist/index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Jez-er/nova.git"
+	},
+	"keywords": [],
+	"author": "Jez-er",
+	"license": "MIT",
+	"type": "module",
+	"bugs": {
+		"url": "https://github.com/Jez-er/nova/issues"
+	},
+	"homepage": "https://github.com/Jez-er/nova#readme"
+}
